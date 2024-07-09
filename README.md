@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Gonare-22
-- 👀 I’m interested in Software Devloper
-- 🌱 I’m currently learning Undergratue 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gonarevaishnav@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💫 About Me:
+Software developer |<br>Passionate about Machine Learning |<br>Data science learner | <br>DSA | <br>Finace Head @ NSS VIIT| <br>Founder Call4Wheel
 
-<!---
-Gonare-22/Gonare-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaishnav-gonare-44238922a/) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gonare-22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gonare-22&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonare-22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Gonare-22&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
