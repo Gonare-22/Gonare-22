@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gonare-22" alt="gonare-22" /></a> </p>
 
-- 🌱 I’m currently learning **React,DSA,**
+- 🌱 I’m currently learning **React,DSA,DevOps,**
 
-- 💬 Ask me about **Cloud Comuptting**
+- 💬 Ask me about **Cloud Comuptting,Development,Wordpress,Ui-Ux,Machine Learning**
 
 - 📫 How to reach me **gonarevaishnav@gmail.com**
 
