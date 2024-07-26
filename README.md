@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaishnav Gonare</h1>
+<h1 align="center">Hello 👋, I'm Vaishnav Gonare</h1>
 <h3 align="center">Software developer & Passionate about Machine Learning</h3>
 
 - 📫 How to reach me **gonarevaishnav@gmail.com**
