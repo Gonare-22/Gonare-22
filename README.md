@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **gonarevaishnav@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ROT08dZYi7YPDpWWHTZ9n-I9qFHOiQab/view?usp=drive_link](https://drive.google.com/file/d/1ROT08dZYi7YPDpWWHTZ9n-I9qFHOiQab/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
