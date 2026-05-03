@@ -1,18 +1,150 @@
-<h1 align="center">Hello 👋, I'm Vaishnav Gonare</h1>
-<h3 align="center">Software developer </h3>
+<h1 align="center">Hey there 👋, I'm Vaishnav Gonare</h1>
+<h3 align="center">Software Developer | AI Enthusiast | Backend Engineer</h3>
 
-- 📫 How to reach me **gonarevaishnav@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vaishnavgonare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavgonare/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26311253/vaishnav-gonare?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26311253/vaishnav-gonare?tab=profile" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vaishnav gonare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnav gonare" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vaishnav_22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaishnav_22/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/gonarevaishnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/gonarevaishnav" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/gonarevapejm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/gonarevapejm/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+Backend+Engineer;Quant+%26+HFT+Enthusiast;Building+Scalable+Systems;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building **AI, Backend & Scalable Applications**
+- 🌱 Exploring **Quantitative Finance & HFT Systems**
+- 💡 Interested in **AI Agents, Distributed Systems & Cloud**
+- 🧠 Love solving **DSA & System Design Problems**
+- 🏃 Marathon Runner & Tech Explorer
+- 📫 Reach me at: **gonarevaishnav@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vaishnavgonare/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
+</a>
+
+<a href="https://leetcode.com/u/vaishnav_22/" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/leetcode" height="45" width="45" />
+</a>
+
+<a href="https://www.hackerrank.com/vaishnav gonare" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/hackerrank" height="45" width="45" />
+</a>
+
+<a href="https://stackoverflow.com/users/26311253/vaishnav-gonare?tab=profile" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/stackoverflow" height="45" width="45" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/gonarevapejm/" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/geeksforgeeks" height="45" width="45" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,php" />
+</p>
+
+## 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,mongodb,postgresql" />
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" />
+</p>
+
+## 🛠 Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,arduino,mysql,vscode" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 🧠 Emotract
+> Emotion detection system for online classes using ResNet-50.
+
+### 🚴 Ride Sharing MERN Platform
+> Full-stack bike rider platform with ride creation and booking features.
+
+### 🤖 AI Agent Marketplace
+> Marketplace to buy, deploy and manage AI agents like an App Store.
+
+### 📈 Quant Analysis System
+> Real-time stock market quantitative analysis platform using financial APIs.
+
+### 🎯 TransformerFusion
+> Transformer-based 3D scene reconstruction system from monocular RGB videos.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🧩 Strong Problem Solving & DSA Skills
+- ⚡ Built AI & MERN Stack Applications
+- 📚 Active on Coding Platforms
+- 🏃 Completed Multiple Marathons
+- 🚀 Passionate About Scalable Tech
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+# ☕ Support Me
+
+<p align="center">
+<a href="https://buymeacoffee.com/">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  ⭐️ From <b>Vaishnav Gonare</b>
+</p>
